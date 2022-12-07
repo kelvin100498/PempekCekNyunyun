@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PempekCekNyunyun/static/css/main.63dc3bd1.css",
+    "main.js": "/PempekCekNyunyun/static/js/main.8c64ecc9.js",
+    "static/media/bg.png": "/PempekCekNyunyun/static/media/bg.51b1e69cded5efe1b202.png",
+    "static/media/body-bg-pattern.png": "/PempekCekNyunyun/static/media/body-bg-pattern.6c31ed84fb390068021b.png",
+    "static/media/platePempek.png": "/PempekCekNyunyun/static/media/platePempek.ae560d11352fdf065131.png",
+    "static/media/chef.png": "/PempekCekNyunyun/static/media/chef.003aa9e5d022f4a08796.png",
+    "static/media/bg.jpg": "/PempekCekNyunyun/static/media/bg.b4162689cae98845f9d5.jpg",
+    "static/media/lenjer.jpeg": "/PempekCekNyunyun/static/media/lenjer.176e5af6894f3efa3f6e.jpeg",
+    "static/media/PmpekTelor.jpg": "/PempekCekNyunyun/static/media/PmpekTelor.1d21fccece3b68f37fda.jpg",
+    "static/media/avatar1.png": "/PempekCekNyunyun/static/media/avatar1.27a81bcea579cdc1cf92.png",
+    "static/media/PempekKulit.jpg": "/PempekCekNyunyun/static/media/PempekKulit.669615d7a9b29ec9dea6.jpg",
+    "static/media/avatar3.png": "/PempekCekNyunyun/static/media/avatar3.fe5de891cf00cdb0534c.png",
+    "static/media/adaan.jpeg": "/PempekCekNyunyun/static/media/adaan.31ec471a2ec783acccfa.jpeg",
+    "static/media/avatar2.png": "/PempekCekNyunyun/static/media/avatar2.e728d8a774b3109f5951.png",
+    "index.html": "/PempekCekNyunyun/index.html",
+    "main.63dc3bd1.css.map": "/PempekCekNyunyun/static/css/main.63dc3bd1.css.map",
+    "main.8c64ecc9.js.map": "/PempekCekNyunyun/static/js/main.8c64ecc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63dc3bd1.css",
+    "static/js/main.8c64ecc9.js"
+  ]
+}
