@@ -35,7 +35,7 @@ export const heroData = {
   title: 'Cek Nyunyun',
   subtitle:
     'Jl. Komp. Griya Gemilang Sakti II, Serang, Kec. Serang, Kota Serang, Banten 42116',
-  btnText: 'Find out more',
+  btnText: 'ini berubah gk',
 };
 
 export const socialData = [
@@ -51,7 +51,7 @@ export const aboutData = {
   title: 'who we are',
   subtitle:
     'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet consequatur, quasi minima molestiae ex exercitationem culpa quisquam architecto quaerat, iusto dolores labore, sapiente magni rem commodi aperiam ad dolorem neque ducimus. Placeat vel non quod quis pariatur a aperiam, aliquam adipisci voluptatum voluptatem sit cupiditate dolore natus beatae earum omnis.',
-  btnText: 'find out more',
+  btnText: 'ini berubah gk 2',
   image: AboutImg,
 };
 
