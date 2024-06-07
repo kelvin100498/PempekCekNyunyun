@@ -35,7 +35,7 @@ export const heroData = {
   title: 'Cek Nyunyun',
   subtitle:
     'Jl. Komp. Griya Gemilang Sakti II, Serang, Kec. Serang, Kota Serang, Banten 42116',
-  btnText: 'Find out more',
+  btnText: 'test',
 };
 
 export const socialData = [
