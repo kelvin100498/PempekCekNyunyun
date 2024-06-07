@@ -39,11 +39,11 @@ export const heroData = {
 };
 
 export const socialData = [
-  { href: '/', icon: <FaYoutube /> },
-  { href: '/', icon: <FaFacebookF /> },
-  { href: '/', icon: <FaInstagram /> },
-  { href: '/', icon: <FaPinterestP /> },
-  { href: '/', icon: <FaDiscord /> },
+  { href: 'intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end', icon: <FaYoutube /> },
+  { href: 'intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end', icon: <FaFacebookF /> },
+  { href: 'intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end', icon: <FaInstagram /> },
+  { href: 'intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end', icon: <FaPinterestP /> },
+  { href: 'intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end', icon: <FaDiscord /> },
 ];
 
 export const aboutData = {
