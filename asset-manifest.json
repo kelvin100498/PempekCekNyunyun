@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PempekCekNyunyun/static/css/main.311a88ec.css",
-    "main.js": "/PempekCekNyunyun/static/js/main.1dc4b102.js",
+    "main.js": "/PempekCekNyunyun/static/js/main.44fc8209.js",
     "static/media/bg.png": "/PempekCekNyunyun/static/media/bg.51b1e69cded5efe1b202.png",
     "static/media/body-bg-pattern.png": "/PempekCekNyunyun/static/media/body-bg-pattern.6c31ed84fb390068021b.png",
     "static/media/platePempek.png": "/PempekCekNyunyun/static/media/platePempek.ae560d11352fdf065131.png",
@@ -16,10 +16,10 @@
     "static/media/avatar2.png": "/PempekCekNyunyun/static/media/avatar2.e728d8a774b3109f5951.png",
     "index.html": "/PempekCekNyunyun/index.html",
     "main.311a88ec.css.map": "/PempekCekNyunyun/static/css/main.311a88ec.css.map",
-    "main.1dc4b102.js.map": "/PempekCekNyunyun/static/js/main.1dc4b102.js.map"
+    "main.44fc8209.js.map": "/PempekCekNyunyun/static/js/main.44fc8209.js.map"
   },
   "entrypoints": [
     "static/css/main.311a88ec.css",
-    "static/js/main.1dc4b102.js"
+    "static/js/main.44fc8209.js"
   ]
 }
