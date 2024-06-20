@@ -12,7 +12,9 @@ import { Maps } from './components/Maps';
 const App = () => {
   return (
     <div className='h-full bg-pattern bg-repeat max-w-[1800px] mx-auto overflow-hidden'>
-      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.dev;S.browser_fallback_url=https://api.dev.src.id/link/dashboard;end">Buka di Aplikasi PMI</a>
+      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.dev;S.browser_fallback_url=https://api.dev.src.id/link/dashboard;end">Buka di Aplikasi PMI PROD</a>
+      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.dev;S.browser_fallback_url=https://api.dev.src.id/link/dashboard;end">Buka di Aplikasi PMI DEV</a>
+      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.dev;S.browser_fallback_url=https://api.dev.src.id/link/dashboard;end">Buka di Aplikasi PMI QA</a>
       <Hero />
       <About />
       <Menu />
