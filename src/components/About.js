@@ -11,9 +11,16 @@ const About = () => {
   const { pretitle, title, subtitle, btnText, image } = aboutData;
   return (
     <section className='min-h-[620px]'>
-      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end">Buka di Aplikasi PMI PROD</a>
-      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.dev;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end">Buka di Aplikasi PMI DEV</a>
-      <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.qa;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end">Buka di Aplikasi PMI QA</a>
+      <div>
+        <div>
+        <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end">Buka di Aplikasi PMI PROD</a>
+        </div>
+        <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.dev;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end">Buka di Aplikasi PMI DEV</a>
+        <div>
+          <a href="intent://link/ovo#Intent;scheme=https;package=com.pmi.limited.pmiappm05726.qa;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pmi.limited.pmiappm05726;end">Buka di Aplikasi PMI QA</a>
+        </div>
+      </div>
+
       <div className='container mx-auto min-h-[620px]'>
         {/* text & image wrapper */}
         <motion.div
